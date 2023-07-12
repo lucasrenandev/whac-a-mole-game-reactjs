@@ -1,1 +1,1 @@
-# whac-a-mole-reactjs
+# whac-a-mole-game-reactjs
